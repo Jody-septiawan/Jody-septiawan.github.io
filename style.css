@@ -26,7 +26,8 @@ h2
 
 .cont1
 {
-    background: rgb(0, 0, 32, 0.6);
+    background: rgba(85, 85, 85, 0.1);
+    color: rgb(255, 255, 255, 0.3);
     min-width: 100%;
     text-align: center;
     padding: 350px 0;
@@ -34,8 +35,8 @@ h2
 
 .cont1:hover
 {
-    background: rgba(85, 85, 85, 0.1);
-    color: rgb(255, 255, 255, 0.3);
+    background: rgb(0, 0, 32, 0.6);
+    color: white;
 }
 
 .cont2
