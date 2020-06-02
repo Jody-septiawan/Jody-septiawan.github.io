@@ -1,0 +1,42 @@
+@font-face{
+    font-family: 'kaushan';
+    src: url('../assets/font/kaushan/kaushan.ttf');
+}
+
+*{
+    transition: 0.7s;
+}
+
+.nav-header{
+    font-family: kaushan;
+}
+
+.masthead{
+    height: 822px;
+}
+
+.section-subheader{
+    font-family: kaushan;
+    font-size: 18px;
+}
+
+.portfolio-item:hover{
+    transform: translateY(-10px);
+}
+
+.shadoww{
+    box-shadow: 0px 0px 70px 0px #fed33698;
+}
+.nav-item{
+    border-bottom: 3px solid #fed33600;
+    transition: 0.9s;
+}
+
+.nav-item:hover{
+    border-bottom: 3px solid #fed336;
+}
+
+.nav-link{
+    transition: 0s;
+
+}
